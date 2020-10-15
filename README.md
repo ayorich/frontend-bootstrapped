@@ -15,5 +15,5 @@ npm i -S firebase
 git clone url newName
 
 ## REMOVE GIT 
-del /F /S /Q /A .git
+del /F /S /Q /A .git\
 rmdir .git
